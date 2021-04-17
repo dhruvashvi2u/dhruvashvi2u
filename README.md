@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dhruvashvi2u
 - 👀 I’m interested in app development
-- 🌱 I’m have just started learning React-native and expo
+- 🌱 I have just now started learning React-native and expo. Also I am new to github
 - 💞️ I’m looking to collaborate on nothing as i am student
 
 <!---
